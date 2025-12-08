@@ -92,7 +92,7 @@ export default function Body () {
                 > Show more... </p>}
         </div>
 
-        <div className = " flex ">
+        {/* <div className = " flex ">
             <p className = " ml-auto ">
                 <a className = " text-light-secondary p-4 underline" 
                     href = " https://v1-ms.vercel.app/ "
@@ -101,7 +101,7 @@ export default function Body () {
                     href = " https://v2-ms.vercel.app/ "
                 > website V2 </a>
             </p>
-        </div>
+        </div> */}
         
     </main>
     )
