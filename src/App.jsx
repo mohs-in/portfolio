@@ -10,7 +10,7 @@ function App() {
       }}
     >
       <Routes>
-        <Route path='/' element={<Hero /> }/>
+        <Route path='/portfolio' element={<Hero /> }/>
       </Routes>
     </BrowserRouter>
   )
