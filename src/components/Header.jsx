@@ -16,7 +16,7 @@ export default function Header() {
                 <div className='flex items-start justify-between'>
                     <h1 className='font-myFontOne font-normal text-6xl md:text-8xl mb-6 tracking-tight animate-bounce-2 relative'>Mohsin <br /> Khansab</h1>
                     <div className='flex flex-col ml-0 md:ml-10 items-start'>
-                        <a  className='p-2 md:p-4 md:border border border-grey cursor-pointer' href="https://github.com/mohs-in" target='_blank' id='gh'><img src={gh} alt="" /></a>
+                        <a  className='p-2 md:p-4 md:border border border-grey cursor-pointer' href="https://github.com/mkhansab" target='_blank' id='gh'><img src={gh} alt="" /></a>
                         <a className='p-2 md:p-4 md:border border border-grey cursor-pointer' href="https://www.linkedin.com/in/mohsinkhansab" target='_blank' id='in'><img src={lin} alt="" /></a>
                     </div>
                 </div>

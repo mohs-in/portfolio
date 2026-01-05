@@ -92,6 +92,7 @@ export default function Body () {
                 > Show more... </p>}
         </div>
 
+	{/* Deployment removed from vercel */}
         {/* <div className = " flex ">
             <p className = " ml-auto ">
                 <a className = " text-light-secondary p-4 underline" 
